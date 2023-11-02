@@ -43,7 +43,8 @@ const clock = () => {
     return `${day}, ${month} ${date}, ${year} | ${hour}:${minutes}:${seconds} ${ampm}`;
   }
   
-  setInterval(clock, 1000);
-  
-  
+  // setInterval(clock, 1000);
+
   // console.log(clock());
+
+  export { clock };

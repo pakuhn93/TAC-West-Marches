@@ -1,4 +1,3 @@
-import '../stylesheets/magicItemShop.css';
 
 export default function MagicItemShop(){
     return (

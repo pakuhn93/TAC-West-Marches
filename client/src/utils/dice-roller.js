@@ -57,3 +57,5 @@ const rollDice = (...dice) => {
   }
   
   console.log('Return Value:', rollDice('4d4', '10d6', '5d8'));
+
+  export { rollDice };
