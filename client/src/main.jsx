@@ -1,29 +1,31 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import MagicShop from './Pages/MagicShop/MagicShop.jsx';
-import Home from './Pages/Home/Home.jsx';
+// boiler plate react stuff
+import React from 'react' ;
+import ReactDOM from 'react-dom/client';
+import App from './App.jsx';
 
-// creates the router that guides our endpoints
-const router = createBrowserRouter ([
+// router stuff 
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+
+// pages included on the website
+import Home from './Pages/Home.jsx';
+import MagicItemShop from './Pages/MagicItemShop.jsx';
+
+// initialize the router (similar to express)
+const router = createBrowserRouter([
   {
     path: '/',
-    // root pathway, not index page
     element: <App />,
     children: [
       {
+        // *** CURRENT LANDING PAGE IS NOT PERMANENT ***
         index: true,
-        element: <MagicShop />
+        element: <MagicItemShop />,
       },
-      {
-        path: 'magicshop',
-        element: <MagicShop />
-      }
     ]
   }
 ]);
 
+// renders the current html document with the appropriate ReactDOM element
 ReactDOM.createRoot(document.getElementById('root')).render(
-    <RouterProvider router={router} />
+  <RouterProvider router={router} />
 );

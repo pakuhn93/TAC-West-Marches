@@ -1,7 +1,9 @@
+import '../stylesheets/home.css';
+
 export default function Home(){
     return (
-        <section>
-            <h1>Welcome Home.</h1>
+        <section id='homepage'>
+            Homepage
         </section>
     );
 }
