@@ -1,12 +1,12 @@
 // generates a magic item shop by randomly selecting items
 // item limits are specified based on category
 // generateShop() will pull info from GraphQL when integrated to full-stack
-import { magicItems } from '../db/magicItemShop.json';
+import magicItems from '../db/magicItemShop.json';
 
 const generateShop = () => {
   
   // initialize category arrays
-  let combatItems = [];
+  let equipmentItems = [];
   let consumableItems = [];
   let utilityItems = [];
   
@@ -14,9 +14,9 @@ const generateShop = () => {
   const categorize = () => {
     for(item of magicItems){
       switch(item.category){
-        case 'Combat':
-          console.log(`Storing Combat Item: ${item.name}`);
-          combatItems.push(item);
+        case 'Equipment':
+          console.log(`Storing Equipment Item: ${item.name}`);
+          equipmentItems.push(item);
           break;
         case 'Consumable':
           console.log(`Storing Consumable Item: ${item.name}`);
@@ -31,16 +31,16 @@ const generateShop = () => {
           break;
       }
     }
-    console.log("Item Groups:", combatItems, consumableItems, utilityItems);
+    console.log("Item Groups:", equipmentItems, consumableItems, utilityItems);
   }
   
   // categorize will only be called once outside of this file
   categorize();  
   
-  const itemLimitCombat = 2;
+  const itemLimitEquipment = 2;
   const itemLimitConsumable = 3;
   const itemLimitUtility = 1;
-  const totalLimit = itemLimitUtility + itemLimitConsumable + itemLimitCombat;
+  const totalLimit = itemLimitUtility + itemLimitConsumable + itemLimitEquipment;
   
   let magicShop = [];
   
@@ -52,12 +52,12 @@ const generateShop = () => {
     consumableItems.splice(randomIndex, 1);
   }
   
-  // pick random combat items up to limit
-  for(let i = 0; i < itemLimitCombat; i++){
-    let randomIndex = Math.floor(Math.random() * combatItems.length);
-    magicShop.push(combatItems[randomIndex]);
+  // pick random equipment items up to limit
+  for(let i = 0; i < itemLimitEquipment; i++){
+    let randomIndex = Math.floor(Math.random() * equipmentItems.length);
+    magicShop.push(equipmentItems[randomIndex]);
     // splice out the item added to magicShop
-    combatItems.splice(randomIndex, 1);
+    equipmentItems.splice(randomIndex, 1);
   }
   
   // pick random utility items up to limit

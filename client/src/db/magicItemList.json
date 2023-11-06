@@ -1,0 +1,4351 @@
+[
+    {
+        "name": "Adamantine Armor",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500,
+        "source": "DMG",
+        "page": 150
+    },
+    {
+        "name": "Alchemical Compendium",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "Alchemy Jug",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 150
+    },
+    {
+        "name": "All Purpose Tool +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Tool",
+        "price": 500,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "All Purpose Tool +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Tool",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "All Purpose Tool +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Tool",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "Amethyst Lodestone",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 50000,
+        "source": "FToD",
+        "page": 22,
+        "attunement": true
+    },
+    {
+        "name": "Ammunition, +1",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Ammunition",
+        "price": 500,
+        "source": "DMG",
+        "page": 150
+    },
+    {
+        "name": "Ammunition, +2",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Ammunition",
+        "price": 5000,
+        "source": "DMG",
+        "page": 150
+    },
+    {
+        "name": "Ammunition, +3",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Ammunition",
+        "price": 50000,
+        "source": "DMG",
+        "page": 150
+    },
+    {
+        "name": "Amulet of Health",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 5000,
+        "source": "DMG",
+        "page": 150,
+        "attunement": true
+    },
+    {
+        "name": "Amulet of Proof Against Detection and Location",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500,
+        "source": "DMG",
+        "page": 150,
+        "attunement": true
+    },
+    {
+        "name": "Amulet of the Devout +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "Amulet of the Devout +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "Amulet of the Devout +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 119,
+        "attunement": true
+    },
+    {
+        "name": "Amulet of the Planes",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 50000,
+        "source": "DMG",
+        "page": 150,
+        "attunement": true
+    },
+    {
+        "name": "Animated Shield",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 152,
+        "attunement": true
+    },
+    {
+        "name": "Apparatus of Kwalish",
+        "rarity": "Legendary",
+        "category": "Special",
+        "type": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 152
+    },
+    {
+        "name": "Arcane Grimoire +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 500,
+        "source": "TCoE",
+        "page": 120,
+        "attunement": true
+    },
+    {
+        "name": "Arcane Grimoire +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 120,
+        "attunement": true
+    },
+    {
+        "name": "Arcane Grimoire +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 120,
+        "attunement": true
+    },
+    {
+        "name": "Armor of Invulnerability",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500000,
+        "source": "DMG",
+        "page": 152,
+        "attunement": true
+    },
+    {
+        "name": "Armor of Resistance",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 152,
+        "attunement": true
+    },
+    {
+        "name": "Armor of Safeguarding",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Heavy Armor",
+        "price": 50000,
+        "source": "GotG",
+        "page": 111,
+        "attunement": true
+    },
+    {
+        "name": "Armor of Vulnerability",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 152,
+        "attunement": true
+    },
+    {
+        "name": "Armor, +1",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 152
+    },
+    {
+        "name": "Armor, +2",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 152
+    },
+    {
+        "name": "Armor, +3",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500000,
+        "source": "DMG",
+        "page": 152
+    },
+    {
+        "name": "Armour of Gleaming",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Arrow of Slaying",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Ammunition",
+        "price": 50000,
+        "source": "DMG",
+        "page": 152
+    },
+    {
+        "name": "Arrow-catching Shield",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 152,
+        "attunement": true
+    },
+    {
+        "name": "Astral Shard",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 120,
+        "attunement": true
+    },
+    {
+        "name": "Astromancy Archive",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 120,
+        "attunement": true
+    },
+    {
+        "name": "Atlas of Endless Horizons",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 120,
+        "attunement": true
+    },
+    {
+        "name": "Bag of Beans",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 5000,
+        "source": "DMG",
+        "page": 152
+    },
+    {
+        "name": "Bag of Devouring",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Storage",
+        "price": 50000,
+        "source": "DMG",
+        "page": 153
+    },
+    {
+        "name": "Bag of Holding",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Storage",
+        "price": 500,
+        "source": "DMG",
+        "page": 153
+    },
+    {
+        "name": "Bag of Tricks",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 500,
+        "source": "DMG",
+        "page": 154
+    },
+    {
+        "name": "Bead of Force",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Control",
+        "price": 5000,
+        "source": "DMG",
+        "page": 154
+    },
+    {
+        "name": "Bead of Nourishment",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Bead of Refreshment",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Bell Branch",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Focus",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 122,
+        "attunement": true
+    },
+    {
+        "name": "Belt of Cloud Giant Strength",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 500000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Belt of Dwarvenkind",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 5000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Belt of Fire Giant Strength",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 50000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Belt of Frost/Stone Giant Strength",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 50000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Belt of Hill Giant Strength",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 5000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Belt of Storm Giant Strength",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 500000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Berserker Axe",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Greataxe",
+        "price": 5000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Bloodshed Blade",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "GotG",
+        "page": 111,
+        "attunement": true
+    },
+    {
+        "name": "Bloodwell Vial +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Misc",
+        "price": 500,
+        "source": "TCoE",
+        "page": 122,
+        "attunement": true
+    },
+    {
+        "name": "Bloodwell Vial +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Misc",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 122,
+        "attunement": true
+    },
+    {
+        "name": "Bloodwell Vial +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Misc",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 122,
+        "attunement": true
+    },
+    {
+        "name": "Boots of Elvenkind",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 500,
+        "source": "DMG",
+        "page": 155
+    },
+    {
+        "name": "Boots of False Tracks",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Boots of Levitation",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 5000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Boots of Speed",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 5000,
+        "source": "DMG",
+        "page": 155,
+        "attunement": true
+    },
+    {
+        "name": "Boots of Striding and Springing",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 500,
+        "source": "DMG",
+        "page": 156,
+        "attunement": true
+    },
+    {
+        "name": "Boots of the Winterlands",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 500,
+        "source": "DMG",
+        "page": 156,
+        "attunement": true
+    },
+    {
+        "name": "Bowl of Commanding Water Elementals",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 156
+    },
+    {
+        "name": "Bracers of Archery",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Bracelet",
+        "price": 500,
+        "source": "DMG",
+        "page": 156,
+        "attunement": true
+    },
+    {
+        "name": "Bracers of Defense",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Bracelet",
+        "price": 5000,
+        "source": "DMG",
+        "page": 156,
+        "attunement": true
+    },
+    {
+        "name": "Brazier of Commanding Fire Elementals",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 156
+    },
+    {
+        "name": "Brooch of Shielding",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Brooch",
+        "price": 500,
+        "source": "DMG",
+        "page": 156,
+        "attunement": true
+    },
+    {
+        "name": "Broom of Flying",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Transportation",
+        "price": 500,
+        "source": "DMG",
+        "page": 156
+    },
+    {
+        "name": "Candle of Invocation",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 50000,
+        "source": "DMG",
+        "page": 157,
+        "attunement": true
+    },
+    {
+        "name": "Candle of the Deep",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Vision",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Cap of Water Breathing",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 500,
+        "source": "DMG",
+        "page": 157
+    },
+    {
+        "name": "Cape of the Mountebank",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 5000,
+        "source": "DMG",
+        "page": 157
+    },
+    {
+        "name": "Carpet of Flying",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Transportation",
+        "price": 50000,
+        "source": "DMG",
+        "page": 157
+    },
+    {
+        "name": "Cast-off Armor",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Cauldron of Rebirth",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 122,
+        "attunement": true
+    },
+    {
+        "name": "Censer of Controlling Air Elementals",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 158
+    },
+    {
+        "name": "Charlatan's Die",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136,
+        "attunement": true
+    },
+    {
+        "name": "Chime of Opening",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Unlocking",
+        "price": 5000,
+        "source": "DMG",
+        "page": 158
+    },
+    {
+        "name": "Circlet of Blasting",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 500,
+        "source": "DMG",
+        "page": 158
+    },
+    {
+        "name": "Cloak of Arachnida",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 50000,
+        "source": "DMG",
+        "page": 158,
+        "attunement": true
+    },
+    {
+        "name": "Cloak of Billowing",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Cloak of Displacement",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 5000,
+        "source": "DMG",
+        "page": 158,
+        "attunement": true
+    },
+    {
+        "name": "Cloak of Elvenkind",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 500,
+        "source": "DMG",
+        "page": 158,
+        "attunement": true
+    },
+    {
+        "name": "Cloak of Invisibility",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 500000,
+        "source": "DMG",
+        "page": 158,
+        "attunement": true
+    },
+    {
+        "name": "Cloak of Many Fashions",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 100,
+        "source": "XGtE",
+        "page": 136
+    },
+    {
+        "name": "Cloak of Protection",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 500,
+        "source": "DMG",
+        "page": 159,
+        "attunement": true
+    },
+    {
+        "name": "Cloak of the Bat",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 5000,
+        "source": "DMG",
+        "page": 159,
+        "attunement": true
+    },
+    {
+        "name": "Cloak of the Manta Ray",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 500,
+        "source": "DMG",
+        "page": 159
+    },
+    {
+        "name": "Clockwork Amulet",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Clothes of Mending",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Clothing",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Crown of the Wrath Bringer",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 5000,
+        "source": "GotG",
+        "page": 111,
+        "attunement": true
+    },
+    {
+        "name": "Crystal Ball (Legendary)",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 500000,
+        "source": "DMG",
+        "page": 159,
+        "attunement": true
+    },
+    {
+        "name": "Crystal Ball (Very Rare)",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 50000,
+        "source": "DMG",
+        "page": 159,
+        "attunement": true
+    },
+    {
+        "name": "Crystal Blade",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "FToD",
+        "page": 22,
+        "attunement": true
+    },
+    {
+        "name": "Crystalline Chronicle",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 124,
+        "attunement": true
+    },
+    {
+        "name": "Cube of Force",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Structure",
+        "price": 5000,
+        "source": "DMG",
+        "page": 159,
+        "attunement": true
+    },
+    {
+        "name": "Cubic Gate",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Portal",
+        "price": 500000,
+        "source": "DMG",
+        "page": 160
+    },
+    {
+        "name": "Daern's Instant Fortress",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Structure",
+        "price": 5000,
+        "source": "DMG",
+        "page": 160
+    },
+    {
+        "name": "Dagger of Venom",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Dagger",
+        "price": 5000,
+        "source": "DMG",
+        "page": 161
+    },
+    {
+        "name": "Dancing Sword",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "DMG",
+        "page": 161,
+        "attunement": true
+    },
+    {
+        "name": "Dark Shard Amulet",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137,
+        "attunement": true
+    },
+    {
+        "name": "Decanter of Endless Water",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 161
+    },
+    {
+        "name": "Deck of Illusions",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "DMG",
+        "page": 161
+    },
+    {
+        "name": "Deck of Many Things",
+        "rarity": "Legendary",
+        "category": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 162
+    },
+    {
+        "name": "Defender",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500000,
+        "source": "DMG",
+        "page": 164,
+        "attunement": true
+    },
+    {
+        "name": "Delver's Claws",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Hands",
+        "price": 5000,
+        "source": "GotG",
+        "page": 112,
+        "attunement": true
+    },
+    {
+        "name": "Demon Armor",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 165,
+        "attunement": true
+    },
+    {
+        "name": "Devotee's Censer",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Flail",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 126,
+        "attunement": true
+    },
+    {
+        "name": "Dimensional Shackles",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Control",
+        "price": 5000,
+        "source": "DMG",
+        "page": 165
+    },
+    {
+        "name": "Dragon Scale Mail",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 165,
+        "attunement": true
+    },
+    {
+        "name": "Dragon Slayer",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 166
+    },
+    {
+        "name": "Dragon Wing Bow",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Bow",
+        "price": 5000,
+        "source": "FToD",
+        "page": 23,
+        "attunement": true
+    },
+    {
+        "name": "Dragonhide Belt +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 500,
+        "source": "FToD",
+        "page": 23,
+        "attunement": true
+    },
+    {
+        "name": "Dragonhide Belt +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 5000,
+        "source": "FToD",
+        "page": 23,
+        "attunement": true
+    },
+    {
+        "name": "Dragonhide Belt +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Belt",
+        "price": 50000,
+        "source": "FToD",
+        "page": 23,
+        "attunement": true
+    },
+    {
+        "name": "Dragonlance",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Lance",
+        "price": 500000,
+        "source": "FToD",
+        "page": 23,
+        "attunement": true
+    },
+    {
+        "name": "Dread Helm",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Driftglobe",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "DMG",
+        "page": 166
+    },
+    {
+        "name": "Duplicitous Manuscript",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 126,
+        "attunement": true
+    },
+    {
+        "name": "Dust of Disappearance",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 166
+    },
+    {
+        "name": "Dust of Dryness",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 166
+    },
+    {
+        "name": "Dust of Sneezing and Choking",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 166
+    },
+    {
+        "name": "Dwarven Plate",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 167
+    },
+    {
+        "name": "Dwarven Thrower",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "DMG",
+        "page": 167,
+        "attunement": true
+    },
+    {
+        "name": "Ear Horn of Hearing",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Efreeti Bottle",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "price": 50000,
+        "source": "DMG",
+        "page": 167
+    },
+    {
+        "name": "Efreeti Chain",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500000,
+        "source": "DMG",
+        "page": 167,
+        "attunement": true
+    },
+    {
+        "name": "Elemental Essence Shard",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 127,
+        "attunement": true
+    },
+    {
+        "name": "Elemental Gem",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Summoning",
+        "price": 500,
+        "source": "DMG",
+        "page": 167
+    },
+    {
+        "name": "Elixir of Health",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 168
+    },
+    {
+        "name": "Elven Chain",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 168
+    },
+    {
+        "name": "Emerald Pen",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "FToD",
+        "page": 23
+    },
+    {
+        "name": "Enduring Spellbook",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Ersatz Eye",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Limb",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137,
+        "attunement": true
+    },
+    {
+        "name": "Eversmoking Bottle",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 168
+    },
+    {
+        "name": "Eyes of Charming",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Face",
+        "price": 500,
+        "source": "DMG",
+        "page": 168,
+        "attunement": true
+    },
+    {
+        "name": "Eyes of Minute Seeing",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Face",
+        "price": 500,
+        "source": "DMG",
+        "page": 168
+    },
+    {
+        "name": "Eyes of the Eagle",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Face",
+        "price": 500,
+        "source": "DMG",
+        "page": 168,
+        "attunement": true
+    },
+    {
+        "name": "Far Realm Shard",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 127,
+        "attunement": true
+    },
+    {
+        "name": "Feywild Shard",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 500,
+        "source": "TCoE",
+        "page": 127,
+        "attunement": true
+    },
+    {
+        "name": "Figure of Wondrous Power (Gold Canary)",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 500000,
+        "source": "FToD",
+        "page": 23
+    },
+    {
+        "name": "Figurine of Wondrous Power (Bronze Griffon)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Ebony Fly)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Golden Lions)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Ivory Goats) (Full Set)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Marble Elephant)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Obsidian Steed)",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 50000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Onyx Dog)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Serpentine Owl)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Figurine of Wondrous Power (Silver Raven)",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 500,
+        "source": "DMG",
+        "page": 169
+    },
+    {
+        "name": "Flail of Tiamat",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Flail",
+        "price": 500000,
+        "source": "FToD",
+        "page": 23,
+        "attunement": true
+    },
+    {
+        "name": "Flame Tongue",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 170,
+        "attunement": true
+    },
+    {
+        "name": "Folding Boat",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Structure",
+        "price": 5000,
+        "source": "DMG",
+        "page": 170
+    },
+    {
+        "name": "Frost Brand",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "DMG",
+        "page": 171,
+        "attunement": true
+    },
+    {
+        "name": "Fulminating Treatise",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 128,
+        "attunement": true
+    },
+    {
+        "name": "Gauntlets of Ogre Power",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Hands",
+        "price": 500,
+        "source": "DMG",
+        "page": 171,
+        "attunement": true
+    },
+    {
+        "name": "Gem of Brightness",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "DMG",
+        "page": 171
+    },
+    {
+        "name": "Gem of Seeing",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Vision",
+        "price": 5000,
+        "source": "DMG",
+        "page": 172,
+        "attunement": true
+    },
+    {
+        "name": "Giant Slayer",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 172
+    },
+    {
+        "name": "Glamoured Studded Leather",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 172
+    },
+    {
+        "name": "Gloves of Missile Snaring",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Hands",
+        "price": 500,
+        "source": "DMG",
+        "page": 172,
+        "attunement": true
+    },
+    {
+        "name": "Gloves of Swimming and Climbing",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Hands",
+        "price": 500,
+        "source": "DMG",
+        "page": 172,
+        "attunement": true
+    },
+    {
+        "name": "Gloves of Thievery",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Hands",
+        "price": 500,
+        "source": "DMG",
+        "page": 172,
+        "attunement": true
+    },
+    {
+        "name": "Glowrune Pigment",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Tool",
+        "price": 5000,
+        "source": "GotG",
+        "page": 112,
+        "attunement": true
+    },
+    {
+        "name": "Goggles of Night",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Face",
+        "price": 500,
+        "source": "DMG",
+        "page": 172
+    },
+    {
+        "name": "Guardian Emblem",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 500,
+        "source": "TCoE",
+        "page": 128,
+        "attunement": true
+    },
+    {
+        "name": "Hammer of Thunderbolts",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Maul",
+        "price": 500000,
+        "source": "DMG",
+        "page": 173,
+        "attunement": true
+    },
+    {
+        "name": "Harp of Gilded Plenty",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 500000,
+        "source": "GotG",
+        "page": 112,
+        "attunement": true
+    },
+    {
+        "name": "Hat of Disguise",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 500,
+        "source": "DMG",
+        "page": 173,
+        "attunement": true
+    },
+    {
+        "name": "Hat of Vermin",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Hat of Wizardry",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137,
+        "attunement": true
+    },
+    {
+        "name": "Headband of Intellect",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 500,
+        "source": "DMG",
+        "page": 173,
+        "attunement": true
+    },
+    {
+        "name": "Heart Weaver's Primer",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 128,
+        "attunement": true
+    },
+    {
+        "name": "Helm of Brilliance",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 50000,
+        "source": "DMG",
+        "page": 173,
+        "attunement": true
+    },
+    {
+        "name": "Helm of Comprehending Languages",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 500,
+        "source": "DMG",
+        "page": 173
+    },
+    {
+        "name": "Helm of Telepathy",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 500,
+        "source": "DMG",
+        "page": 174,
+        "attunement": true
+    },
+    {
+        "name": "Helm of Teleportation",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 5000,
+        "source": "DMG",
+        "page": 174,
+        "attunement": true
+    },
+    {
+        "name": "Heward's Handy Haversack",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Storage",
+        "price": 5000,
+        "source": "DMG",
+        "page": 174
+    },
+    {
+        "name": "Heward's Handy Spice Pouch",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Holy Avenger",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500000,
+        "source": "DMG",
+        "page": 174,
+        "attunement": true
+    },
+    {
+        "name": "Horn of Blasting",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 5000,
+        "source": "DMG",
+        "page": 174
+    },
+    {
+        "name": "Horn of Silent Alarm",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137
+    },
+    {
+        "name": "Horn of Valhalla (Brass)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Horn of Valhalla (Bronze)",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 50000,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Horn of Valhalla (Iron)",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 500000,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Horn of Valhalla (Silver)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Horseshoes of a Zephyr",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Mount",
+        "price": 50000,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Horseshoes of Speed",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Mount",
+        "price": 5000,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Immovable Rod",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 500,
+        "source": "DMG",
+        "page": 175
+    },
+    {
+        "name": "Instrument of Illusions",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 100,
+        "source": "XGtE",
+        "page": 137,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of Scribing",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Anstruth Harp)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Canaith Mandolin)",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 5000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Cli Lyre)",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 5000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Doss Lute)",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 500,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Fochlucan Bandore)",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 500,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Mac-Fuirmidh Cittern)",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 500,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Instrument of the Bards (Ollamh Harp)",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 500000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Absorption)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Agility)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Awareness)",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 5000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Fortitude)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Greater Absorption)",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 500000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Insight)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Intellect)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Leadership)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Mastery)",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 500000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Protection)",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 5000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Regeneration)",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 500000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Reserve)",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 5000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Strength)",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 50000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Ioun Stone (Sustenance)",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ioun",
+        "price": 5000,
+        "source": "DMG",
+        "page": 176,
+        "attunement": true
+    },
+    {
+        "name": "Iron Bands of Bilarro",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Control",
+        "price": 5000,
+        "source": "DMG",
+        "page": 177
+    },
+    {
+        "name": "Iron Flask",
+        "rarity": "Legendary",
+        "category": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 178
+    },
+    {
+        "name": "Javelin of Lightning",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Javelin",
+        "price": 500,
+        "source": "DMG",
+        "page": 178
+    },
+    {
+        "name": "Keoghtom's Ointment",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Healing",
+        "price": 500,
+        "source": "DMG",
+        "page": 179
+    },
+    {
+        "name": "Lantern of Revealing",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Vision",
+        "price": 500,
+        "source": "DMG",
+        "page": 179
+    },
+    {
+        "name": "Lash of Immolation",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Whip",
+        "price": 5000,
+        "source": "GotG",
+        "page": 113
+    },
+    {
+        "name": "Libram of Souls and Flesh",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 129,
+        "attunement": true
+    },
+    {
+        "name": "Lock of Trickery",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Control",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Longbow of the Healing Hearth",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Longbow",
+        "price": 500000,
+        "source": "GotG",
+        "page": 113,
+        "attunement": true
+    },
+    {
+        "name": "Lucent Destroyer",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Firearm",
+        "price": 50000,
+        "source": "GotG",
+        "page": 113,
+        "attunement": true
+    },
+    {
+        "name": "Luck Blade",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500000,
+        "source": "DMG",
+        "page": 179,
+        "attunement": true
+    },
+    {
+        "name": "Lyre of Building",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 131,
+        "attunement": true
+    },
+    {
+        "name": "Mace of Disruption",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Mace",
+        "price": 5000,
+        "source": "DMG",
+        "page": 179,
+        "attunement": true
+    },
+    {
+        "name": "Mace of Smiting",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Mace",
+        "price": 5000,
+        "source": "DMG",
+        "page": 179
+    },
+    {
+        "name": "Mace of Terror",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Mace",
+        "price": 5000,
+        "source": "DMG",
+        "page": 180,
+        "attunement": true
+    },
+    {
+        "name": "Mantle of Spell Resistance",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 5000,
+        "source": "DMG",
+        "page": 180,
+        "attunement": true
+    },
+    {
+        "name": "Manual of Bodily Health",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Ability Score",
+        "price": 50000,
+        "source": "DMG",
+        "page": 180
+    },
+    {
+        "name": "Manual of Gainful Exercise",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Ability Score",
+        "price": 50000,
+        "source": "DMG",
+        "page": 180
+    },
+    {
+        "name": "Manual of Golems",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Summoning",
+        "price": 50000,
+        "source": "DMG",
+        "page": 180
+    },
+    {
+        "name": "Manual of Quickness of Action",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Ability Score",
+        "price": 50000,
+        "source": "DMG",
+        "page": 181
+    },
+    {
+        "name": "Mariner's Armor",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500,
+        "source": "DMG",
+        "page": 181
+    },
+    {
+        "name": "Medallion of Thoughts",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500,
+        "source": "DMG",
+        "page": 181,
+        "attunement": true
+    },
+    {
+        "name": "Mirror of Life Trapping",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "price": 50000,
+        "source": "DMG",
+        "page": 181
+    },
+    {
+        "name": "Mistral Mantle",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 50000,
+        "source": "GotG",
+        "page": 114,
+        "attunement": true
+    },
+    {
+        "name": "Mithral Armor",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500,
+        "source": "DMG",
+        "page": 182
+    },
+    {
+        "name": "Moon Sickle +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Sickle",
+        "price": 500,
+        "source": "TCoE",
+        "page": 133,
+        "attunement": true
+    },
+    {
+        "name": "Moon Sickle +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Sickle",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 133,
+        "attunement": true
+    },
+    {
+        "name": "Moon Sickle +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Sickle",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 133,
+        "attunement": true
+    },
+    {
+        "name": "Moon Touched Weapon",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Mystery Key",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Unlocking",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Nature's Mantle",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 500,
+        "source": "TCoE",
+        "page": 133,
+        "attunement": true
+    },
+    {
+        "name": "Necklace of Adaptation",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500,
+        "source": "DMG",
+        "page": 182,
+        "attunement": true
+    },
+    {
+        "name": "Necklace of Fireballs",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Neck",
+        "price": 5000,
+        "source": "DMG",
+        "page": 182
+    },
+    {
+        "name": "Necklace of Prayer Beads",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 5000,
+        "source": "DMG",
+        "page": 182,
+        "attunement": true
+    },
+    {
+        "name": "Nimbus Coronet",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Head",
+        "price": 50000,
+        "source": "GotG",
+        "page": 114,
+        "attunement": true
+    },
+    {
+        "name": "Nine Lives Stealer",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "DMG",
+        "page": 183,
+        "attunement": true
+    },
+    {
+        "name": "Nolzur's Marvellous Pigments",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 50000,
+        "source": "DMG",
+        "page": 183
+    },
+    {
+        "name": "Oathbow",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Bow",
+        "price": 50000,
+        "source": "DMG",
+        "page": 183,
+        "attunement": true
+    },
+    {
+        "name": "Oil of Etherealness",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 183
+    },
+    {
+        "name": "Oil of Sharpness",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 184
+    },
+    {
+        "name": "Oil of Slipperiness",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 184
+    },
+    {
+        "name": "Orb of Direction",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Orb of Skoraeus",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Focus",
+        "price": 500000,
+        "source": "GotG",
+        "page": 114,
+        "attunement": true
+    },
+    {
+        "name": "Orb of Time",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Outer Essence Shard",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 133,
+        "attunement": true
+    },
+    {
+        "name": "Pearl of Power",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "DMG",
+        "page": 184,
+        "attunement": true
+    },
+    {
+        "name": "Perfume of Bewitching",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Periapt of Health",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500,
+        "source": "DMG",
+        "page": 184
+    },
+    {
+        "name": "Periapt of Proof Against Poison",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 5000,
+        "source": "DMG",
+        "page": 184
+    },
+    {
+        "name": "Periapt of Wound Closure",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500,
+        "source": "DMG",
+        "page": 184,
+        "attunement": true
+    },
+    {
+        "name": "Philter of Love",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 184
+    },
+    {
+        "name": "Pipe of Smoke Monsters",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Pipes of Haunting",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Instrument",
+        "price": 500,
+        "source": "DMG",
+        "page": 185
+    },
+    {
+        "name": "Pipes of the Sewers",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Instrument",
+        "price": 500,
+        "source": "DMG",
+        "page": 185,
+        "attunement": true
+    },
+    {
+        "name": "Planecaller's Codex",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 134,
+        "attunement": true
+    },
+    {
+        "name": "Plate Armor of Etherealness",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500000,
+        "source": "DMG",
+        "page": 185,
+        "attunement": true
+    },
+    {
+        "name": "Platinum Scarf",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 500000,
+        "source": "FToD",
+        "page": 24,
+        "attunement": true
+    },
+    {
+        "name": "Pole of Angling",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Pole of Collapsing",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Portable Hole",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Storage",
+        "price": 5000,
+        "source": "DMG",
+        "page": 185
+    },
+    {
+        "name": "Pot of Awakening",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Potion of Animal Friendship",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Clairvoyance",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Climbing",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 100,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Cloud Giant Strength",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Diminution",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Dragon's Majesty",
+        "rarity": "Legendary",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500000,
+        "source": "FToD",
+        "page": 24
+    },
+    {
+        "name": "Potion of Fire Breath",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Fire Giant Strength",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Flying",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Frost/Stone Giant Strength",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Gaseous Form",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Greater Healing",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Growth",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Healing",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 100,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Heroism",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Hill Giant Strength",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Invisibility",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Invulnerability",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Longevity",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Mind Reading",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Poison",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Resistance",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Speed",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Storm Giant Strength",
+        "rarity": "Legendary",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Superior Healing",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 5000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Supreme Healing",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 187
+    },
+    {
+        "name": "Potion of Vitality",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 50000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Potion of Water Breathing",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Potion",
+        "price": 500,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power (Carnelian Triceratops)",
+        "rarity": "Very Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 50000,
+        "source": "GotG",
+        "page": 114
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power (Jasper Tyrannosaurus Rex)",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 500000,
+        "source": "GotG",
+        "page": 114
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power (Kyanite Pteranodon)",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "GotG",
+        "page": 115
+    },
+    {
+        "name": "Prehistoric Figurine of Wondrous Power (Pyrite Plesiosaurus)",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 500,
+        "source": "GotG",
+        "page": 115
+    },
+    {
+        "name": "Protective Verses",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 134,
+        "attunement": true
+    },
+    {
+        "name": "Quaal's Feather Token",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 188
+    },
+    {
+        "name": "Quiver of Ehlonna",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Quiver",
+        "price": 500,
+        "source": "DMG",
+        "page": 189
+    },
+    {
+        "name": "Reaper's Scream",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Morningstar",
+        "price": 500000,
+        "source": "GotG",
+        "page": 115,
+        "attunement": true
+    },
+    {
+        "name": "Reveler's Concertina",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Spellbook",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 134,
+        "attunement": true
+    },
+    {
+        "name": "Rhythm-Maker's Drum +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 500,
+        "source": "TCoE",
+        "page": 134,
+        "attunement": true
+    },
+    {
+        "name": "Rhythm-Maker's Drum +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 5000,
+        "source": "TCoE",
+        "page": 134,
+        "attunement": true
+    },
+    {
+        "name": "Rhythm-Maker's Drum +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Instrument",
+        "price": 50000,
+        "source": "TCoE",
+        "page": 134,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Amity",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 50000,
+        "source": "GotG",
+        "page": 115,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Animal Influence",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 189
+    },
+    {
+        "name": "Ring of Djinni Summoning",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500000,
+        "source": "DMG",
+        "page": 190,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Elemental Command",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500000,
+        "source": "DMG",
+        "page": 190,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Evasion",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Feather Falling",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Free Action",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Invisibility",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500000,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Jumping",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Mind Shielding",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Protection",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Regeneration",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 50000,
+        "source": "DMG",
+        "page": 191,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Resistance",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 192,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Shooting Stars",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 50000,
+        "source": "DMG",
+        "page": 192,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Spell Storing",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 192,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Spell Tuning",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500000,
+        "source": "DMG",
+        "page": 193,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Swimming",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500,
+        "source": "DMG",
+        "page": 193
+    },
+    {
+        "name": "Ring of Telekinesis",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 50000,
+        "source": "DMG",
+        "page": 193,
+        "attunement": true
+    },
+    {
+        "name": "Ring of the Ram",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 193,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Three Wishes",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500000,
+        "source": "DMG",
+        "page": 193
+    },
+    {
+        "name": "Ring of Warmth",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500,
+        "source": "DMG",
+        "page": 193,
+        "attunement": true
+    },
+    {
+        "name": "Ring of Water Walking",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 500,
+        "source": "DMG",
+        "page": 193
+    },
+    {
+        "name": "Ring of X-ray Vision",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Ring",
+        "price": 5000,
+        "source": "DMG",
+        "page": 193,
+        "attunement": true
+    },
+    {
+        "name": "Robe of Eyes",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Robe",
+        "price": 5000,
+        "source": "DMG",
+        "page": 193,
+        "attunement": true
+    },
+    {
+        "name": "Robe of Scintillating Colors",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Robe",
+        "price": 50000,
+        "source": "DMG",
+        "page": 194,
+        "attunement": true
+    },
+    {
+        "name": "Robe of Stars",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Robe",
+        "price": 50000,
+        "source": "DMG",
+        "page": 194,
+        "attunement": true
+    },
+    {
+        "name": "Robe of the Archmagi",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Robe",
+        "price": 500000,
+        "source": "DMG",
+        "page": 194,
+        "attunement": true
+    },
+    {
+        "name": "Robe of Useful Items",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Robe",
+        "price": 500,
+        "source": "DMG",
+        "page": 195
+    },
+    {
+        "name": "Rod of Absorption",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 50000,
+        "source": "DMG",
+        "page": 195,
+        "attunement": true
+    },
+    {
+        "name": "Rod of Alertness",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 50000,
+        "source": "DMG",
+        "page": 196,
+        "attunement": true
+    },
+    {
+        "name": "Rod of Lordly Might",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 500000,
+        "source": "DMG",
+        "page": 196,
+        "attunement": true
+    },
+    {
+        "name": "Rod of Resurrection",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 500000,
+        "source": "DMG",
+        "page": 197,
+        "attunement": true
+    },
+    {
+        "name": "Rod of Rulership",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 5000,
+        "source": "DMG",
+        "page": 197,
+        "attunement": true
+    },
+    {
+        "name": "Rod of Security",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 50000,
+        "source": "DMG",
+        "page": 197
+    },
+    {
+        "name": "Rod of the Pact Keeper, +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 500,
+        "source": "DMG",
+        "page": 197,
+        "attunement": true
+    },
+    {
+        "name": "Rod of the Pact Keeper, +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 5000,
+        "source": "DMG",
+        "page": 197,
+        "attunement": true
+    },
+    {
+        "name": "Rod of the Pact Keeper, +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 50000,
+        "source": "DMG",
+        "page": 197,
+        "attunement": true
+    },
+    {
+        "name": "Rope of Climbing",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 197
+    },
+    {
+        "name": "Rope of Entanglement",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 5000,
+        "source": "DMG",
+        "page": 197
+    },
+    {
+        "name": "Rope of Mending",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138
+    },
+    {
+        "name": "Ruby of the War Mage",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Augment",
+        "price": 100,
+        "source": "XGtE",
+        "page": 138,
+        "attunement": true
+    },
+    {
+        "name": "Ruby Weave Gem",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Focus",
+        "price": 500000,
+        "source": "FToD",
+        "page": 24,
+        "attunement": true
+    },
+    {
+        "name": "Saddle of the Cavalier",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Mount",
+        "price": 500,
+        "source": "DMG",
+        "page": 199
+    },
+    {
+        "name": "Sanctum Amulet",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Neck",
+        "price": 50000,
+        "source": "GotG",
+        "page": 116,
+        "attunement": true
+    },
+    {
+        "name": "Sapphire Buckler",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Shield",
+        "price": 50000,
+        "source": "FToD",
+        "page": 24,
+        "attunement": true
+    },
+    {
+        "name": "Scarab of Protection",
+        "rarity": "Legendary",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 500000,
+        "source": "DMG",
+        "page": 199,
+        "attunement": true
+    },
+    {
+        "name": "Scimitar of Speed",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Scimitar",
+        "price": 50000,
+        "source": "DMG",
+        "page": 199,
+        "attunement": true
+    },
+    {
+        "name": "Scroll of Protection",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 5000,
+        "source": "DMG",
+        "page": 199
+    },
+    {
+        "name": "Sending Stones",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "DMG",
+        "page": 199
+    },
+    {
+        "name": "Sentinel Shield",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500,
+        "source": "DMG",
+        "page": 199
+    },
+    {
+        "name": "Shield of Expression",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Shield of Missile Attraction",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 200,
+        "attunement": true
+    },
+    {
+        "name": "Shield of the Blazing Dreadnought",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Shield",
+        "price": 500000,
+        "source": "GotG",
+        "page": 116,
+        "attunement": true
+    },
+    {
+        "name": "Shield, +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 500,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Shield, +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 5000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Shield, +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Slippers of Spider Climbing",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 500,
+        "source": "DMG",
+        "page": 200,
+        "attunement": true
+    },
+    {
+        "name": "Smoldering Armor",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Sovereign Glue",
+        "rarity": "Legendary",
+        "category": "Consumable",
+        "price": 500000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell scroll (1st Level)",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 100,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (2nd Level)",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 500,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (3rd Level)",
+        "rarity": "Uncommon",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 500,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (4th Level)",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 5000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (5th Level)",
+        "rarity": "Rare",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 5000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (6th Level)",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 50000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (7th Level)",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 50000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (8th Level)",
+        "rarity": "Very Rare",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 50000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell Scroll (9th Level)",
+        "rarity": "Legendary",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 500000,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spell scroll (Cantrip)",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Scroll",
+        "price": 100,
+        "source": "DMG",
+        "page": 200
+    },
+    {
+        "name": "Spellguard Shield",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Armor",
+        "price": 50000,
+        "source": "DMG",
+        "page": 201,
+        "attunement": true
+    },
+    {
+        "name": "Sphere of Annihilation",
+        "rarity": "Legendary",
+        "category": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 201
+    },
+    {
+        "name": "Staff of Adornment",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Staff of Birdcalls",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Staff of Charming",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 5000,
+        "source": "DMG",
+        "page": 201,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Fire",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 50000,
+        "source": "DMG",
+        "page": 201,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Flowers",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Staff of Frost",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 50000,
+        "source": "DMG",
+        "page": 202,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Healing",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 5000,
+        "source": "DMG",
+        "page": 202,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Power",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 50000,
+        "source": "DMG",
+        "page": 202,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Striking",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 50000,
+        "source": "DMG",
+        "page": 203,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Swarming Insects",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 5000,
+        "source": "DMG",
+        "page": 203,
+        "attunement": true
+    },
+    {
+        "name": "Staff of the Adder",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 500,
+        "source": "DMG",
+        "page": 203,
+        "attunement": true
+    },
+    {
+        "name": "Staff of the Magi",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 500000,
+        "source": "DMG",
+        "page": 203,
+        "attunement": true
+    },
+    {
+        "name": "Staff of the Python",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 500,
+        "source": "DMG",
+        "page": 204,
+        "attunement": true
+    },
+    {
+        "name": "Staff of the Rooted Hills",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 5000,
+        "source": "GotG",
+        "page": 116,
+        "attunement": true
+    },
+    {
+        "name": "Staff of the Woodlands",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 5000,
+        "source": "DMG",
+        "page": 204,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Thunder and Lightning",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 50000,
+        "source": "DMG",
+        "page": 204,
+        "attunement": true
+    },
+    {
+        "name": "Staff of Withering",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Staff",
+        "price": 5000,
+        "source": "DMG",
+        "page": 205,
+        "attunement": true
+    },
+    {
+        "name": "Stone of Controlling Earth Elementals",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Summoning",
+        "price": 5000,
+        "source": "DMG",
+        "page": 205
+    },
+    {
+        "name": "Stone of Good Luck/Luckstone",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 500,
+        "source": "DMG",
+        "page": 205,
+        "attunement": true
+    },
+    {
+        "name": "Stonebreaker's Breastplate",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Breastplate",
+        "price": 500000,
+        "source": "GotG",
+        "page": 116,
+        "attunement": true
+    },
+    {
+        "name": "Sun Blade",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 205,
+        "attunement": true
+    },
+    {
+        "name": "Sword of Answering",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500000,
+        "source": "DMG",
+        "page": 206,
+        "attunement": true
+    },
+    {
+        "name": "Sword of Life Stealing",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 206,
+        "attunement": true
+    },
+    {
+        "name": "Sword of Sharpness",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "DMG",
+        "page": 206,
+        "attunement": true
+    },
+    {
+        "name": "Sword of Vengeance",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500,
+        "source": "DMG",
+        "page": 206,
+        "attunement": true
+    },
+    {
+        "name": "Sword of Wounding",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 207,
+        "attunement": true
+    },
+    {
+        "name": "Talisman of Pure Good",
+        "rarity": "Legendary",
+        "category": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 207,
+        "attunement": true
+    },
+    {
+        "name": "Talisman of the Sphere",
+        "rarity": "Legendary",
+        "category": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 207,
+        "attunement": true
+    },
+    {
+        "name": "Talisman of Ultimate Evil",
+        "rarity": "Legendary",
+        "category": "Special",
+        "price": 500000,
+        "source": "DMG",
+        "page": 207,
+        "attunement": true
+    },
+    {
+        "name": "Talking doll",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139,
+        "attunement": true
+    },
+    {
+        "name": "Tankard of Sobriety",
+        "rarity": "Common",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Tentacle Rod",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Rod",
+        "price": 5000,
+        "source": "DMG",
+        "page": 208,
+        "attunement": true
+    },
+    {
+        "name": "Thunderbuss",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Firearm",
+        "price": 50000,
+        "source": "GotG",
+        "page": 116
+    },
+    {
+        "name": "Tome of Clear Thought",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Ability Score",
+        "price": 50000,
+        "source": "DMG",
+        "page": 208
+    },
+    {
+        "name": "Tome of Leadership and Influence",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Ability Score",
+        "price": 50000,
+        "source": "DMG",
+        "page": 208
+    },
+    {
+        "name": "Tome of the Stilled Tongue",
+        "rarity": "Legendary",
+        "category": "Special",
+        "type": "Spellbook",
+        "price": 500000,
+        "source": "DMG",
+        "page": 208,
+        "attunement": true
+    },
+    {
+        "name": "Tome of Understanding",
+        "rarity": "Very Rare",
+        "category": "Special",
+        "type": "Ability Score",
+        "price": 50000,
+        "source": "DMG",
+        "page": 209
+    },
+    {
+        "name": "Topaz Annihilator",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Firearm",
+        "price": 500000,
+        "source": "FToD",
+        "page": 24,
+        "attunement": true
+    },
+    {
+        "name": "Trident of Fish Command",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Trident",
+        "price": 500,
+        "source": "DMG",
+        "page": 209,
+        "attunement": true
+    },
+    {
+        "name": "Unbreakable Arrow",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Ammunition",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Universal Solvent",
+        "rarity": "Legendary",
+        "category": "Consumable",
+        "price": 500000,
+        "source": "DMG",
+        "page": 209
+    },
+    {
+        "name": "Veteran's Cane",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Vicious Weapon",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 209
+    },
+    {
+        "name": "Vorpal Sword",
+        "rarity": "Legendary",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500000,
+        "source": "DMG",
+        "page": 209,
+        "attunement": true
+    },
+    {
+        "name": "Walloping Ammunition",
+        "rarity": "Common",
+        "category": "Consumable",
+        "type": "Ammunition",
+        "price": 100,
+        "source": "XGtE",
+        "page": 139
+    },
+    {
+        "name": "Wand of Binding",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 209,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Conducting",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 100,
+        "source": "XGtE",
+        "page": 140
+    },
+    {
+        "name": "Wand of Enemy Detection",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 210,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Fear",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 210,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Fireballs",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 210,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Lightning Bolts",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 211,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Magic Detection",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 500,
+        "source": "DMG",
+        "page": 211
+    },
+    {
+        "name": "Wand of Magic Missiles",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 500,
+        "source": "DMG",
+        "page": 211,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Paralysis",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 211,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Polymorph",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 50000,
+        "source": "DMG",
+        "page": 211,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Pyrotechnics",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 100,
+        "source": "XGtE",
+        "page": 140
+    },
+    {
+        "name": "Wand of Scowls",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 100,
+        "source": "XGtE",
+        "page": 140
+    },
+    {
+        "name": "Wand of Secrets",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 500,
+        "source": "DMG",
+        "page": 211
+    },
+    {
+        "name": "Wand of Smiles",
+        "rarity": "Common",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 100,
+        "source": "XGtE",
+        "page": 140
+    },
+    {
+        "name": "Wand of the war mage, +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 500,
+        "source": "DMG",
+        "page": 212,
+        "attunement": true
+    },
+    {
+        "name": "Wand of the war mage, +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 212,
+        "attunement": true
+    },
+    {
+        "name": "Wand of the war mage, +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 50000,
+        "source": "DMG",
+        "page": 212,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Web",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 500,
+        "source": "DMG",
+        "page": 212,
+        "attunement": true
+    },
+    {
+        "name": "Wand of Wonder",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Wand",
+        "price": 5000,
+        "source": "DMG",
+        "page": 212,
+        "attunement": true
+    },
+    {
+        "name": "War Horn of Valor",
+        "rarity": "Rare",
+        "category": "Utility",
+        "type": "Misc",
+        "price": 5000,
+        "source": "GotG",
+        "page": 117
+    },
+    {
+        "name": "Wayfarer's Boots",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 5000,
+        "source": "GotG",
+        "page": 117,
+        "attunement": true
+    },
+    {
+        "name": "Weapon of Warning",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500,
+        "source": "DMG",
+        "page": 213,
+        "attunement": true
+    },
+    {
+        "name": "Weapon, +1",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 500,
+        "source": "DMG",
+        "page": 213
+    },
+    {
+        "name": "Weapon, +2",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 5000,
+        "source": "DMG",
+        "page": 213
+    },
+    {
+        "name": "Weapon, +3",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Weapon",
+        "price": 50000,
+        "source": "DMG",
+        "page": 213
+    },
+    {
+        "name": "Well of Many Worlds",
+        "rarity": "Legendary",
+        "category": "Special",
+        "type": "Portal",
+        "price": 500000,
+        "source": "DMG",
+        "page": 213
+    },
+    {
+        "name": "Wind Fan",
+        "rarity": "Uncommon",
+        "category": "Utility",
+        "type": "Spellcasting",
+        "price": 500,
+        "source": "DMG",
+        "page": 213
+    },
+    {
+        "name": "Winged Boots",
+        "rarity": "Uncommon",
+        "category": "Equipment",
+        "type": "Feet",
+        "price": 500,
+        "source": "DMG",
+        "page": 214,
+        "attunement": true
+    },
+    {
+        "name": "Wings of Flying",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Cloak",
+        "price": 5000,
+        "source": "DMG",
+        "page": 214,
+        "attunement": true
+    },
+    {
+        "name": "Wyrmweaver Gauntlets",
+        "rarity": "Very Rare",
+        "category": "Equipment",
+        "type": "Hands",
+        "price": 50000,
+        "source": "GotG",
+        "page": 117,
+        "attunement": true
+    },
+    {
+        "name": "Zephyr Armor",
+        "rarity": "Rare",
+        "category": "Equipment",
+        "type": "Light Armor",
+        "price": 5000,
+        "source": "GotG",
+        "page": 117,
+        "attunement": true
+    }
+]
