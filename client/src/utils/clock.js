@@ -37,10 +37,10 @@ const clock = () => {
     // format seconds
     if(seconds < 10) seconds = `0${seconds}`;
     
-    console.log(`${day}, ${month} ${date}, ${year} | ${hour}:${minutes}:${seconds} ${ampm}`);
+    console.log(`${day} ${month} ${date}, ${year} | ${hour}:${minutes}:${seconds} ${ampm}`);
     
     // return a string with formatted values
-    return `${day}, ${month} ${date}, ${year} | ${hour}:${minutes}:${seconds} ${ampm}`;
+    return `${day} ${month} ${date}, ${year} | ${hour}:${minutes}:${seconds} ${ampm}`;
   }
   
   // setInterval(clock, 1000);
