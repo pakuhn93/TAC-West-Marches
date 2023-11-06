@@ -1,7 +1,7 @@
 // generates a magic item shop by randomly selecting items
 // item limits are specified based on category
 // generateShop() will pull info from GraphQL when integrated to full-stack
-import { magicItems } from '../db/magicItemShop.json';
+import { magicItems } from '../db/magicItems.json';
 
 const generateShop = () => {
   
